@@ -1,4 +1,4 @@
-8-Bit Processor
+8-Bit Processor-
 Main components
 •	Program counter (PC)
 •	8 Instructions with 8-bit
